@@ -16,6 +16,7 @@ archivo = "titanic/titanic3.csv"
 frame = pd.read_csv(dirorigen+archivo)
 print(frame.head())
 
+Holamundo = "Holamundo"
 
 #%%
 #Extraccion columnas y combinar con frame
